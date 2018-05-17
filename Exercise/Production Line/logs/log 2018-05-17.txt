@@ -1,0 +1,49 @@
+17.05.2018 18:36:17 Initializing PLC... 
+17.05.2018 18:36:17 UI initialized 
+17.05.2018 18:36:17 Model initilalized 
+17.05.2018 18:36:17 DAQ module initialized 
+17.05.2018 18:36:17 LOG module initialized 
+17.05.2018 18:36:17 PLC initialization successful! 
+17.05.2018 18:36:29 Initializing PLC... 
+17.05.2018 18:36:29 UI initialized 
+17.05.2018 18:36:29 Model initilalized 
+17.05.2018 18:36:29 DAQ module initialized 
+17.05.2018 18:36:29 LOG module initialized 
+17.05.2018 18:36:29 PLC initialization successful! 
+17.05.2018 18:39:02 Initializing PLC... 
+17.05.2018 18:39:02 UI initialized 
+17.05.2018 18:39:02 Model initilalized 
+17.05.2018 18:39:02 DAQ module initialized 
+17.05.2018 18:39:02 LOG module initialized 
+17.05.2018 18:39:02 PLC initialization successful! 
+17.05.2018 18:39:33 Liquid level overflow! 
+17.05.2018 18:39:40 Another barrel filled 
+17.05.2018 18:45:34 Initializing PLC... 
+17.05.2018 18:45:34 UI initialized 
+17.05.2018 18:45:34 Model initilalized 
+17.05.2018 18:45:34 DAQ module initialized 
+17.05.2018 18:45:34 LOG module initialized 
+17.05.2018 18:45:34 PLC initialization successful! 
+17.05.2018 18:45:44 Starting process... 
+17.05.2018 18:45:44 Process has started 
+17.05.2018 18:49:09 Initializing PLC... 
+17.05.2018 18:49:09 UI initialized 
+17.05.2018 18:49:09 Model initilalized 
+17.05.2018 18:49:09 DAQ module initialized 
+17.05.2018 18:49:09 LOG module initialized 
+17.05.2018 18:49:09 PLC initialization successful! 
+17.05.2018 18:49:09 Line has been powered 
+17.05.2018 18:49:13 Starting process... 
+17.05.2018 18:49:13 Process has started 
+17.05.2018 18:49:14 No power! 
+17.05.2018 18:49:17 Line has been powered 
+17.05.2018 18:50:18 Starting process... 
+17.05.2018 18:50:18 Process has started 
+17.05.2018 18:50:26 Stopping process... 
+17.05.2018 18:50:26 Process has stoped 
+17.05.2018 18:53:42 Closing PLC... 
+17.05.2018 18:53:42 Model closed 
+17.05.2018 18:53:42 DAQ module closed 
+17.05.2018 18:53:42 LOG module closed 
+17.05.2018 18:53:42 PLC shutdown successful! 
+17.05.2018 18:53:42 Application quits 
